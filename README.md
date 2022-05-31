@@ -8,7 +8,7 @@ DocumentacionRetencionJson.xlsx para retenciones
 
 [a folder link](integracionConJson_FV_BV_NC_ND/) 
 
-[a relative link](integracionConJson_FV_BV_NC_ND/Codigos%20Fuentes%20Varios%20Lenguajes/) 
+[another folder link](integracionConJson_FV_BV_NC_ND/Codigos%20Fuentes%20Varios%20Lenguajes/) 
 
     Carpeta Codigos Fuentes Varios Lenguajes: contiene ejemplo para lenguaje Visual Studio C#
     [a relative link](other_file.md)
