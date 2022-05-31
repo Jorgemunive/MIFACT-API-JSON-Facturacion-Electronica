@@ -6,6 +6,7 @@ DocumentacionRetencionJson.xlsx para retenciones
 Estructura para Facturas, Boletas, Notas de creedito y Debito (carpeta: integracionConJson_FV_BV_NC_ND):
 
     Carpeta Codigos Fuentes Varios Lenguajes: contiene ejemplo para lenguaje Visual Studio C#
+    [a relative link](other_file.md)
 
     Carpeta Ejemplos Archivos JSON UBL 2_1: contiene ejemplos json armados para distintos escenarios, Factura normal, operaciones Inafectas, exonerads, exportacion etre otras, anular documento, ver estados, ver PDF, XML y CDR.
 
