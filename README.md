@@ -1,6 +1,6 @@
-# apijson
-Integración api para software de terceros con la plataforma mifact
-Para poder hacer las pruebas debera conectar su aplicacion con nuestra plataforma mifact mediante el apirest bajo el formato Json, para ello usted tiene un excel llamado DocumentacionFV_BV_NC_ND_Json.xlsx para el caso de facturas, boeletas, notas de credito y debito y DocumentacionGuiaRemisionJson.xlsx para guia de remision remitente.
+# Integración api para software de terceros con la plataforma mifact
+Integra tu software a la facturación Electrónica fácilmente con el API JSON de Mifact.
+Para poder hacer las pruebas debera conectar su aplicacion con nuestra plataforma Mifact mediante el apirest bajo el formato Json, para ello usted tiene un excel llamado DocumentacionFV_BV_NC_ND_Json.xlsx para el caso de facturas, boeletas, notas de crédito, notas de débito y DocumentacionGuiaRemisionJson.xlsx para guia de remision remitente.
 DocumentacionRetencionJson.xlsx para retenciones
 
 ## Estructura para Facturas, Boletas, Notas de creedito y Debito (carpeta: integracionConJson_FV_BV_NC_ND):
