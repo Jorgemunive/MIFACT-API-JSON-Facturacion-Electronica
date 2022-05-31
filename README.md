@@ -3,8 +3,13 @@ Integración api para software de terceros con la plataforma mifact
 Para poder hacer las pruebas debera conectar su aplicacion con nuestra plataforma mifact mediante el apirest bajo el formato Json, para ello usted tiene un excel llamado DocumentacionFV_BV_NC_ND_Json.xlsx para el caso de facturas, boeletas, notas de credito y debito y DocumentacionGuiaRemisionJson.xlsx para guia de remision remitente.
 DocumentacionRetencionJson.xlsx para retenciones
 
-##Estructura para Facturas, Boletas, Notas de creedito y Debito (carpeta: integracionConJson_FV_BV_NC_ND):
-[a relative link](other_file.md)
+## Estructura para Facturas, Boletas, Notas de creedito y Debito (carpeta: integracionConJson_FV_BV_NC_ND):
+[a relative link](other_file.md) 
+
+[a folder link](integracionConJson_FV_BV_NC_ND/) 
+
+[a relative link](integracionConJson_FV_BV_NC_ND/Codigos Fuentes Varios Lenguajes/) 
+
     Carpeta Codigos Fuentes Varios Lenguajes: contiene ejemplo para lenguaje Visual Studio C#
     [a relative link](other_file.md)
 
