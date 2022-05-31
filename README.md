@@ -1,4 +1,4 @@
-# Integración api para software de terceros con la plataforma mifact
+# Integración API mediante JSON para software de terceros con la plataforma Mifact
 Integra tu software a la facturación Electrónica fácilmente con el API JSON de Mifact.
 Para poder hacer las pruebas debera conectar su aplicacion con nuestra plataforma Mifact mediante el apirest bajo el formato Json, para ello usted tiene un excel llamado DocumentacionFV_BV_NC_ND_Json.xlsx para el caso de facturas, boeletas, notas de crédito, notas de débito y DocumentacionGuiaRemisionJson.xlsx para guia de remision remitente.
 DocumentacionRetencionJson.xlsx para retenciones
@@ -8,7 +8,7 @@ DocumentacionRetencionJson.xlsx para retenciones
 
 [a folder link](integracionConJson_FV_BV_NC_ND/) 
 
-[a relative link](integracionConJson_FV_BV_NC_ND/Codigos Fuentes Varios Lenguajes/) 
+[a relative link](integracionConJson_FV_BV_NC_ND/Codigos%20Fuentes%20Varios%20Lenguajes/) 
 
     Carpeta Codigos Fuentes Varios Lenguajes: contiene ejemplo para lenguaje Visual Studio C#
     [a relative link](other_file.md)
